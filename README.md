@@ -1,2 +1,2 @@
 # BinaryToDecimal
-Created with CodeSandbox
+A simple web app for converting binary to decimal
